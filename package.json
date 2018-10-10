@@ -1,0 +1,17 @@
+{
+  "name": "pitch-7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  
+  "author": "Lệ, Nhàn, Thao, Thảo - K60CAC",
+  "license": "ISC",
+  
+  "dependencies": {
+   
+    "express": "^4.16.3",
+   
+  }
+}
